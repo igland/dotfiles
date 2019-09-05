@@ -1,0 +1,6 @@
+protonmail-bridge
+spotify
+ttf-ms-fonts
+tor-browser
+bitwarden
+davinci-resolve
